@@ -1,0 +1,10 @@
+{
+  "name": "@fanaticofc/eslint-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fernando Barros",
+  "license": "MIT",
+  "devDependencies": {
+    "@captalys-platform/eslint-config-captalys-platform": "^0.3.0"
+  }
+}

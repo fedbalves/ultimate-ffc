@@ -1,0 +1,6 @@
+{
+  "extends": "@fanaticofc/eslint-config",
+  "rules": {
+    "class-methods-use-this": "off"
+  }
+}
